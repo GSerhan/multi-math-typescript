@@ -5,7 +5,7 @@
   }
 
   function logger(message: string): void {
-    console.log(message);
+    console.log('message', message);
   }
 
   export {getInputValue as getValue, logger};

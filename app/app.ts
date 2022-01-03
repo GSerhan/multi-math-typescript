@@ -4,7 +4,6 @@ import { Player } from './player';
 import Game from './game';
 import * as Helpers from './utility';
 
-
 let newGame: Game;
 
 // add click handler to the start game button
